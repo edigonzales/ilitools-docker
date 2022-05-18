@@ -1,0 +1,5 @@
+#!/bin/sh
+
+run_parameter="$@"
+
+java -jar /home/ili2gpkg/ili2gpkg.jar $run_parameter
