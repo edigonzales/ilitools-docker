@@ -1,4 +1,4 @@
-name: ili2pg-docker
+name: ili2db-docker
 
 on:
   workflow_dispatch:
