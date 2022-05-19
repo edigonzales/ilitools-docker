@@ -1,0 +1,5 @@
+#!/bin/sh
+
+run_parameter="$@"
+
+java -Duser.home='/home/ili2c' -jar /home/ili2c/ili2c/ili2c.jar $run_parameter
