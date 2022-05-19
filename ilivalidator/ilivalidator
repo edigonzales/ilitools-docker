@@ -1,0 +1,5 @@
+#!/bin/sh
+
+run_parameter="$@"
+
+java -Duser.home='/home/ilivalidator' -jar /home/ilivalidator/ilivalidator/ilivalidator.jar $run_parameter
