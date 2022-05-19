@@ -2,7 +2,6 @@
 
 ## TODO
 - Nur ein Image (ili2db)
-- Wer ist für das Runterladen und Kopieren verantwortlich? Imagebuild oder Pipeline?
 
 ## Build
 ```
